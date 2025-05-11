@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Abhinavgupta33/MLM-WEBSITE-PROJECT/issues/1#issue-3054863256" alt="banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Gupta</h1>
 <h3 align="center">💻 Full Stack Web Developer | 🚀 MERN Stack Backend Specialist</h3>
