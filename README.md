@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/yG2GZyB.png" alt="banner" width="100%" />
+  <img src="[https://i.imgur.com/yG2GZyB.png](https://github.com/user-attachments/assets/0b4bc26c-e54a-46cf-883f-1a34c20f7e3e)" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Gupta</h1>
