@@ -59,7 +59,7 @@ A Multi-Level Marketing platform with:
 
 ---
 
-### 🔸 [Stock Trading Web App](https://your-live-site-link)
+### 🔸 [Stock Trading Web App]([https://your-live-site-link](https://mlm-website-project.onrender.com/))
 A MERN stack-based stock simulation app with:
 - 🔐 OAuth login
 - 💰 Razorpay Integration
