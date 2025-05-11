@@ -1,70 +1,96 @@
-# **Abhinav Gupta**  
-### Full Stack Developer | Backend Specialist (MREN Stack)  
-![GitHub Banner](https://github.com/abhinavgupta/abhinavgupta/blob/main/assets/banner.gif)  
-*(Replace with your actual banner image link or remove)*  
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/yG2GZyB.png" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Abhinav Gupta</h1>
+<h3 align="center">💻 Full Stack Web Developer | 🚀 MERN Stack Backend Specialist</h3>
+
+<p align="center">
+  <a href="https://github.com/Abhinavgupta33">
+    <img src="https://komarev.com/ghpvc/?username=Abhinavgupta33&label=Profile%20Views&color=0e75b6&style=flat" alt="Abhinavgupta33" />
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 **About Me**  
-I’m a **Full Stack Developer** specializing in **backend development** with the **MREN Stack** (MongoDB, React, Express, Node.js). Passionate about building scalable, efficient, and secure web applications.  
+## 👨‍💻 About Me
 
-🔹 **Backend Focus**: API design, database optimization, authentication, and microservices.  
-🔹 **Frontend Skills**: React.js, responsive UI, and state management.  
-🔹 **DevOps**: Docker, AWS, CI/CD pipelines.  
-
----
-
-## 🛠 **Tech Stack**  
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-- RESTful APIs • JWT/OAuth • WebSockets • Serverless  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-- React Hooks • Context API • Tailwind/Bootstrap  
-
-### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- 🎓 B.Tech Student at **MITRC College, Alwar** (Graduating in 2026)
+- 🔧 Skilled in building robust backend systems using the **MERN stack**
+- 🌐 Comfortable working across the full stack (frontend + backend)
+- 📚 Actively learning DSA to strengthen problem-solving
+- 🛠️ Passionate about scalable, production-ready applications
 
 ---
 
-## 🚀 **Featured Projects**  
+## 🛠 Tech Stack
 
-### **1. E-Commerce Backend (MREN Stack)**  
-![E-Commerce Demo](https://github.com/abhinavgupta/abhinavgupta/blob/main/assets/ecommerce-demo.gif)  
-✔ **JWT Auth** • **Product Management** • **Payment Integration**  
-🔗 [GitHub Repo](#) | [Live Demo](#)  
+### 🚀 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-### **2. Real-Time Chat App (Socket.io + React)**  
-![Chat App Demo](https://github.com/abhinavgupta/abhinavgupta/blob/main/assets/chat-demo.gif)  
-✔ **WebSockets** • **Message Encryption** • **User Presence**  
-🔗 [GitHub Repo](#) | [Live Demo](#)  
-
-*(Replace GIF links with actual project screenshots/videos)*  
-
----
-
-## 📈 **GitHub Stats**  
-
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavgupta&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgupta&layout=compact&theme=radical)  
-
----
-
-## 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavgupta)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhinavdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhinavgupta.dev)  
-📧 **Email**: hi@abhinavgupta.dev  
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multer-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-⭐️ **Fun Fact**: I automate my daily tasks with Node.js scripts!  
-*(Customize this with your personal touch)*  
+## 📂 Featured Projects
+
+### 🔸 [MLM Web App](https://your-live-site-link)
+A Multi-Level Marketing platform with:
+- 🛒 Product system + Cart
+- 🔐 JWT Auth & User Roles
+- 💸 Razorpay Payment Integration
+- 📬 Email Notification via Nodemailer
+- 🔁 Commission Distribution
+> `Stack:` Node.js, Express, MongoDB, Razorpay, JWT, EJS
+
+---
+
+### 🔸 [Stock Trading Web App](https://your-live-site-link)
+A MERN stack-based stock simulation app with:
+- 🔐 OAuth login
+- 💰 Razorpay Integration
+- 📈 Local buy/sell stock operations
+> `Stack:` MongoDB, Express.js, React.js, Node.js
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavgupta33&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavgupta33&theme=tokyonight&hide_border=true" width="47%"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [ag9108074@gmail.com](mailto:ag9108074@gmail.com)  
+- 💼 LinkedIn: [Abhinav Gupta](https://www.linkedin.com/in/abhinav-gupta-a97454269)  
+- 💻 GitHub: [Abhinavgupta33](https://github.com/Abhinavgupta33)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavgupta33&theme=darkhub&no-frame=true&row=1&margin-w=20" />
+</p>
+
+<p align="center">Thanks for visiting! ⭐ Let's build something amazing!</p>
