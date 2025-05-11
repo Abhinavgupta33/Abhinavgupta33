@@ -48,7 +48,7 @@
 
 ## 📂 Featured Projects
 
-### 🔸 [MLM Web App](https://your-live-site-link)
+### 🔸 [MLM Web App](https://mlm-website-project.onrender.com/)
 A Multi-Level Marketing platform with:
 - 🛒 Product system + Cart
 - 🔐 JWT Auth & User Roles
@@ -59,7 +59,7 @@ A Multi-Level Marketing platform with:
 
 ---
 
-### 🔸 [Stock Trading Web App]([https://your-live-site-link](https://mlm-website-project.onrender.com/))
+### 🔸 [Stock Trading Web App](https://your-live-site-link)
 A MERN stack-based stock simulation app with:
 - 🔐 OAuth login
 - 💰 Razorpay Integration
